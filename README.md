@@ -56,6 +56,6 @@ Este projeto foi desenvolvido como atividade da disciplina Development With Pyth
 
 ## Autor
 
-Gabriel Silva
+Gabriel Nery da Silva
 
 Desenvolvido utilizando Python e Pygame.
